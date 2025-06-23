@@ -1,4 +1,3 @@
-# guess_the_num
 # 🎯 Guess The Number Game
 
 A fun and interactive **Guess the Number** game built with modern frontend tools: **React**, **Vite**, **TypeScript**, and **Tailwind CSS**. The main goal of this project was to explore and successfully **deploy** a web application using contemporary web development and hosting practices.

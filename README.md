@@ -28,8 +28,7 @@ A fun and interactive **Guess the Number** game built with modern frontend tools
 - Generates a random number between a set range (e.g., 1–100).
 - Players guess the number through an input field.
 - Real-time feedback is provided:
-  - Too High 🔺
-  - Too Low 🔻
+  - Wrong
   - Correct ✅
 - Option to restart and play again.
 
@@ -41,7 +40,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/guess-the-number.git
+git clone https://github.com/RaeesFatima/guess-the-number.git
 
 # Navigate to the project folder
 cd guess-the-number

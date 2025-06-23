@@ -6,9 +6,7 @@ A fun and interactive **Guess the Number** game built with modern frontend tools
 
 ## 🚀 Live Demo
 
-🔗 [Click here to play the game](https://your-deployment-url.com)
-
-> *(Replace the URL above with your actual deployed link)*
+🔗 https://guess-the-num5.netlify.app/
 
 ---
 

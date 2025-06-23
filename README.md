@@ -26,7 +26,7 @@ A fun and interactive **Guess the Number** game built with modern frontend tools
 - Generates a random number between a set range (e.g., 1–100).
 - Players guess the number through an input field.
 - Real-time feedback is provided:
-  - Wrong
+  - Wrong ❌
   - Correct ✅
 - Option to restart and play again.
 
